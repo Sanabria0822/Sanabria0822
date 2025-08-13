@@ -97,12 +97,20 @@ Ingeniera de Sistemas en formación (9° semestre), con sólidos conocimientos e
 
 <b>📖Función principal: </b> Sistema para la administración y control de biblioteca UIS.
 
-<b>🔍Descripción: </b> Es una aplicación orientada a gestionar de forma eficiente el inventario de libros, el registro de usuarios y el control de préstamos y devoluciones. Su diseño está enfocado en optimizar la organización de los recursos bibliográficos, facilitando la búsqueda, actualización y consulta de la información.
+<b>🔍Descripción: </b> Aplicación orientada a gestionar de forma eficiente el inventario de libros, el registro de usuarios y el control de préstamos y devoluciones. Su diseño está enfocado en optimizar la organización de los recursos bibliográficos, facilitando la búsqueda, actualización y consulta de la información.
 
 <b>💡Enlace al repositorio: </b> https://github.com/Sanabria0822/Biblioteca
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<b>🛒Título del proyecto: </b> Proyecto E-commerce: Plataforma Avanzada
 
+<b>🚀Función principal: </b> Desarrollo de una plataforma de comercio electrónico avanzada que simula la experiencia, escalabilidad y funcionalidades de referentes como Amazon y eBay.
+
+<b>📄Descripción: </b> Implementa un sistema completo de tienda en línea, permitiendo a los usuarios buscar productos, gestionar un carrito de compras dinámico, aplicar descuentos y simular transacciones seguras.
+En la parte administrativa, incluye bases para la gestión de inventario , procesamiento de pedidos y generación de reportes.
+
+<b>💡Enlace al repositorio: </b> https://github.com/Sanabria0822/Proyecto-Ingenieria-de-Software-2
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
