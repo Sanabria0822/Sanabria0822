@@ -92,7 +92,14 @@ Ingeniera de Sistemas en formación (9° semestre), con sólidos conocimientos e
   &emsp;
 </p>
 
-## 📁 My Projects
+## 📁 My Projects 
+<b>📚Título del proyecto: </b> Biblioteca 
+
+<b>📖Función principal: </b> Sistema para la administración y control de biblioteca UIS.
+
+<b>🔍Descripción: </b> Es una aplicación orientada a gestionar de forma eficiente el inventario de libros, el registro de usuarios y el control de préstamos y devoluciones. Su diseño está enfocado en optimizar la organización de los recursos bibliográficos, facilitando la búsqueda, actualización y consulta de la información.
+
+<b>💡Enlace al repositorio: </b> https://github.com/Sanabria0822/Biblioteca
 
 
 
